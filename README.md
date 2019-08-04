@@ -7,7 +7,7 @@
 ```
 
 - install rvenv
-  - Mac
+- Mac
 ```
   $ brew install rbenv ruby-build
   $ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
@@ -19,11 +19,11 @@
   $ rbenv install 2.6.0-dev
 ```
 - version setting
-  - for gloval setting
+- for gloval setting
 ```
   $ rbenv global 2.6.0-dev
 ```
-  - for local setting
+- for local setting
 ```
   $ cd /path/to/ws/cicp2019_uuv_webpage
   $ rbenv local 2.6.0-dev
@@ -35,9 +35,11 @@
 ```
 
 - make Gemfile and add following sentence
+```
   source "https://rubygems.org"
   gem 'github-pages', group: :jekyll_plugins
   gem "minimal-mistakes-jekyll"
+```
 
 - test in the local environment
   $ bundle install --path vendor/bundle
