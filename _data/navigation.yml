@@ -1,13 +1,13 @@
 main:
+  - title: "Home"
+    url: /home/
+  - title: "About Us"
+    url: /about_us/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
-  - title: "Splash"
-    url: /splash-page/
+  # - title: "Categories"
+  #   url: /categories/
   - title: "Contact"
     url: /contact/
+  # - title: "Tags"
+  #   url: /tags/

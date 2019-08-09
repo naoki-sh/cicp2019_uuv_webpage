@@ -42,6 +42,7 @@
 ```
 
 - test in the local environment
+```
   $ bundle install --path vendor/bundle
   $ bundle exec jekyll s
-
+```
