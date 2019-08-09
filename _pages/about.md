@@ -1,8 +1,24 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /about_us/
+title: "Members"
+author_profile: false
 ---
+<img src="/assets/images/takamatsu-sensei.jpg" alt="takamatu-sensei" style="width: 200px;" style="height: 200px;"/>
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+|**Associate Professor** | <a href="https://robotics.naist.jp/members/j-taka/">Jun TAKAMATSU</a> |
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<img src="/assets/images/shirakura-san.jpg" alt="shirakura-san" style="width: 200px;" style="height: 200px;"/>
+
+|**D2** |<!--<a href="http://robotics.naist.jp/~naoki-sh/">-->Naoki SHIRAKURA<!--</a>--> |
+
+<img src="/assets/images/kiyokawa-san.jpg" alt="kiyokawa-san" style="width: 200px;" style="height: 200px;"/>
+
+|**D2** | <a href="https://takuya-ki.github.io/">Takuya KIYOKAWA</a> |
+
+<img src="/assets/images/kumamoto.jpg" alt="kumamoto" style="width: 200px;" style="height: 200px;"/>
+
+| **M1** | Hikaru KUMAMOTO |
+
+<img src="/assets/images/shimizu-kun.jpg" alt="shimizu-kun" style="width: 200px;" style="height: 200px;"/>
+
+| **National Institute of Technology, Tokuyama College Advanced cource 1** | Takumi SHIMIZU |
