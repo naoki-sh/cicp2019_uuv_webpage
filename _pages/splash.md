@@ -49,7 +49,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Experimental environment"
     excerpt: "NAIST installed a experimental pool for this project"
-    url: "#test-link"
+    url: "http://127.0.0.1:4000/contact/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
