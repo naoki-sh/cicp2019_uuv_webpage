@@ -24,13 +24,13 @@ feature_row:
     image_caption: "Photo credit: [**NOAA Marine Debris Program**](https://marinedebris.noaa.gov/)"
     alt: "Marine debris"
     title: "Marine debris"
-    excerpt: "8 million tons of marine garbage flows into the sea every year."
+    excerpt: "8 million tons of marine debris flows into the sea every year."
     url: "#https://marinedebris.noaa.gov/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/seal.jpg
     image_caption: "Photo credit: [**NOAA Marine Debris Program**](https://marinedebris.noaa.gov/)"
-    title: "The impact1 of marine debris"
+    title: "The impact2 of marine debris"
     excerpt: "Sea lions, seals, and fur seals are curious and play with marine debris."
 
 feature_row2:
@@ -48,7 +48,7 @@ feature_row3:
     image_caption : "Photo credit: [**NAIST Robotics Laboratory**](https://robotics.naist.jp/)"
     alt: "placeholder image 2"
     title: "Experimental environment"
-    excerpt: "NAIST installed a experimental pool for this project"
+    excerpt: "Experimental pool in NAIST"
     url: "http://127.0.0.1:4000/contact/"
     btn_label: "Read More"
     btn_class: "btn--primary"
