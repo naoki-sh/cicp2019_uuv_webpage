@@ -11,9 +11,9 @@ header:
     - label: "YouTube"
       url: "https://www.youtube.com/channel/UC0GYVITvuVlnlYLq95Cedsg?view_as=subscriber"
   caption: "Photo credit: [**NAIST Robotics Laboratory**](https://robotics.naist.jp/)"
-excerpt: "Automation of collecting marine debris using an underwater robot"
+excerpt: "Marine debris are serious problem. We're trying to clean marine debris using UUV (Unmanned underwater vehicle)."
 intro:
-  - excerpt: "Marine debris are serious problem. We're trying to collect marine debris using UUV(Unmanned underwater vehicle)."
+  - excerpt: "Marine debris are serious problem. We're trying to clean marine debris using UUV (Unmanned underwater vehicle)."
 feature_row:
   - image_path: assets/images/kame.jpg
     image_caption: "Photo credit: [**NOAA Marine Debris Program**](https://marinedebris.noaa.gov/)"
@@ -32,7 +32,6 @@ feature_row:
     image_caption: "Photo credit: [**NOAA Marine Debris Program**](https://marinedebris.noaa.gov/)"
     title: "The impact2 of marine debris"
     excerpt: "Sea lions, seals, and fur seals are curious and play with marine debris."
-
 feature_row2:
   - image_path: /assets/images/bluerov2.jpg
     image_caption : "Photo credit: [**NAIST Robotics Laboratory**](https://robotics.naist.jp/)"
@@ -42,7 +41,6 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
 feature_row3:
   - image_path: /assets/images/demo.png
     image_caption : "Photo credit: [**NAIST Robotics Laboratory**](https://robotics.naist.jp/)"
@@ -52,7 +50,6 @@ feature_row3:
     url: "http://127.0.0.1:4000/contact/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
 feature_row4:
   - image_path: /assets/images/robotics.jpg
     image_caption : "Photo credit: [**NAIST Robotics Laboratory**](https://robotics.naist.jp/)"
@@ -60,16 +57,15 @@ feature_row4:
     title: "Robotics Laboratory"
     excerpt: "We are members of NAIST Robotics Laboratory"
     url: "https://robotics.naist.jp/"
-    btn_label: "Read More"
+    btn_label: "Travel"
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 
-{% include feature_row %}
+## Recent work
+{% include video id="n14Nao62yqY" provider="youtube" %}
 
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
+<!-- {% include feature_row id="feature_row3" type="center" %} -->
 
 {% include feature_row id="feature_row4" type="center" %}
