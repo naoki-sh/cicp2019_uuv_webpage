@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/top_image.png
   actions:
-    - label: "YouTube"
-      url: "https://www.youtube.com/channel/UC0GYVITvuVlnlYLq95Cedsg?view_as=subscriber"
+    - label: "Recent Posts"
+      url: "#test-link"
   caption: "Photo credit: [**NAIST Robotics Laboratory**](https://robotics.naist.jp/)"
 excerpt: "Marine debris are serious problem. We're trying to clean marine debris using UUV (Unmanned underwater vehicle)."
 intro:
@@ -55,15 +55,14 @@ feature_row4:
     image_caption : "Photo credit: [**NAIST Robotics Laboratory**](https://robotics.naist.jp/)"
     alt: "placeholder image 2"
     title: "Robotics Laboratory"
-    excerpt: "We are members of NAIST Robotics Laboratory"
     url: "https://robotics.naist.jp/"
-    btn_label: "Travel"
+    btn_label: "Visit HP"
     btn_class: "btn--primary"
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-## Recent work
+## Recent video
 {% include video id="n14Nao62yqY" provider="youtube" %}
 
 <!-- {% include feature_row id="feature_row3" type="center" %} -->
