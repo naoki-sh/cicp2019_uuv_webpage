@@ -22,7 +22,7 @@ author_profile: true
 本HP初めての記事は，水中ドローン (BlueROV2) の回路の換装です！
 
 このドローンには，標準で防水仕様のスクリューが8個，LEDが4個搭載されているのですが，今回は新たに**スクリュー，ソナー，グリッパ**を追加したいと思います．
-![fig1]({{ "/assets/images/circuit/0cb108f9308be7635d35.jpeg"}})
+![fig2]({{ "/assets/images/circuit/Bluerov2.jpeg" | relative_url }})
 
 <a href="https://underwaterdrone.stores.jp/items/5cfe3a0e5aa9386d2f394020">水中ドローンのスペック</a>
 
