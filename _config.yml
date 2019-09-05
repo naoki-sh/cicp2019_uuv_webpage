@@ -59,40 +59,23 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#   name   : "Jun Takamatsu"
-#   avatar : "/assets/images/takamatsu-sensei.jpg"
-#   bio    : "I'm Associate Professor @Robottics Laboratory, Division of Information Science , Nara institute of Science and Technology."
-#   links:
-#     - label: "j-taka's home page"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://robotics.naist.jp/members/j-taka/"
-#     # - label: "Twitter"
-#     #   icon: "fab fa-fw fa-twitter-square"
-#     #   url: "https://twitter.com/"
-#     # - label: "GitHub"
-#     #   icon: "fab fa-fw fa-github"
-#     #   url: "https://github.com/"
-#     # - label: "Instagram"
-#     #   icon: "fab fa-fw fa-instagram"
-#     #   url: "https://instagram.com/"
-#
-#   name   : "Hikaru Kumamoto"
-#   avatar : "/assets/images/kumamoto.jpg"
-#   bio    : "I'm a student of Naist Master cource."
-#   links:
-#     # - label: "j-taka's home page"
-#     #   icon: "fas fa-fw fa-link"
-#     #   url: "https://robotics.naist.jp/members/j-taka/"
-#     # - label: "Twitter"
-#     #   icon: "fab fa-fw fa-twitter-square"
-#     #   url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/kumahika"
-#     # - label: "Instagram"
-#     #   icon: "fab fa-fw fa-instagram"
-#     #   url: "https://instagram.com/"
+author:
+  name   : "Hikaru Kumamoto"
+  avatar : "/assets/images/kumamoto.jpg"
+  bio    : "I'm a student of Naist Master cource."
+  links:
+    # - label: "j-taka's home page"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://robotics.naist.jp/members/j-taka/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kumahika"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
