@@ -48,6 +48,9 @@ feature_row5:
     alt: "Hikaru KUMAMOTO"
     title: "Hikaru KUMAMOTO"
     excerpt: "M1"
+    url: "https://kumahika.github.io/"
+    btn_label: "KUMAHIKA's HP"
+    btn_class: "btn--primary"
 feature_row6:
   - image_path: /assets/images/shimizu-kun.jpg
     alt: "Takumi SHIMIZU"
