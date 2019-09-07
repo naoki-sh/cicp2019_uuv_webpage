@@ -26,6 +26,8 @@ github_username: username
 minimal_mistakes_skin: air
 search: true
 
+teaser: /assets/images/circuit/IMG_7380.JPG
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
