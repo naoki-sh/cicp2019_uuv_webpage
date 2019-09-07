@@ -2,8 +2,8 @@
 title: "New actuators are installed on UUV."
 header:
   overlay_image: /assets/images/circuit/IMG_7381.JPG
-  overlay_color: "#333"
   overlay_filter: rgba(255, 255, 255, 0.2)
+  teaser: /assets/images/circuit/IMG_7381.JPG
 toc: true
 toc_sticky: true
 categories:

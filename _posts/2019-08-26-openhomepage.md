@@ -1,28 +1,19 @@
 ---
 title: "Open UUV project webpage"
+
+header:
+  overlay_image: /assets/images/demo.png
+  overlay_filter: rgba(255, 255, 255, 0.2)
+  teaser: /assets/images/demo.png
+
 categories:
   - blog
 tags:
-  - update
+  -
 ---
+<div class="row">
+
+<div class="medium-12  columns" markdown="1">
 ## Open webpage!(2019.8.26)
-
-<!-- You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. -->
-
-<!-- To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
+水中ロボットで海洋ゴミを掃除するUUVプロジェクトは，2019年5月某日に始動しました．そして，本日8月26日にホームページを公開しました．今後は，実験の様子や技術的な内容などをブログ形式でどんどん発信していきたいと思います！　
+また．YouTubeでも動画を配信しています！
