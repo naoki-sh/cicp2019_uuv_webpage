@@ -63,7 +63,7 @@ feature_row4:
 <!-- {% include feature_row id="intro" type="center" %} -->
 
 ## Recent video
-{% include video id="n14Nao62yqY" provider="youtube" %}
+{% include video id="wyqNaqkpOwk" provider="youtube" %}
 
 <!-- {% include feature_row id="feature_row3" type="center" %} -->
 
