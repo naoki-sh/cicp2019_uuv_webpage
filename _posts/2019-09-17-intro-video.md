@@ -17,4 +17,4 @@ author_profile: true
 
 <div class="medium-12  columns" markdown="1">
 ## 紹介動画をYouTubeに公開しました！
-{% include video id="wyqNaqkpOwk" provider="youtube" %}
+{% include video id="JrKOeUw3gVs" provider="youtube" %}
