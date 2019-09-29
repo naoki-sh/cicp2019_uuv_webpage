@@ -62,7 +62,7 @@ feature_row4:
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-## Recent video
+## Introduction video
 {% include video id="JrKOeUw3gVs" provider="youtube" %}
 
 <!-- {% include feature_row id="feature_row3" type="center" %} -->
