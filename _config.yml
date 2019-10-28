@@ -64,9 +64,9 @@ author:
   avatar : "/assets/images/kumamoto.jpg"
   bio    : "I'm a student of Naist Master cource."
   links:
-  　 - label: "KUMAHIKA's HP"
-       icon: "fas fa-fw fa-link"
-       url: "https://kumahika.github.io/research/"
+    - label: "KUMAHIKA's HP"
+      icon: "fas fa-fw fa-link"
+      url: "https://kumahika.github.io/research/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
