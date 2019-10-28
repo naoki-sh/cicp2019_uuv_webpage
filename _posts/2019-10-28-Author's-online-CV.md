@@ -9,6 +9,8 @@ toc_sticky: true
 categories:
   - blog
 tags:
+  - Introduction
+  - Member
 author_profile: true
 ---
 <div class="row">
