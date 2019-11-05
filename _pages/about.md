@@ -48,7 +48,7 @@ feature_row5:
     alt: "Hikaru KUMAMOTO"
     title: "Hikaru KUMAMOTO"
     excerpt: "M1"
-    url: "https://kumahika.github.io/"
+    url: "https://kumahika.github.io/research/"
     btn_label: "KUMAHIKA's HP"
     btn_class: "btn--primary"
 feature_row6:
